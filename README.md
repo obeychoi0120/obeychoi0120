@@ -1,12 +1,8 @@
-<div align="center">
-
 # 안녕하세요, 최준수입니다 👋
 
 **AI Engineer @ Samsung Electronics** · On-device MLLM Optimization
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](wnstnc0120@gmail.com)
-
-</div>
+[![Email](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:wnstnc0120@gmail.com)
 
 ---
 
@@ -61,6 +57,6 @@
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=YOUR_ID&show_icons=true&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=obeychoi0120&show_icons=true&hide_border=true)
 
 </div>
